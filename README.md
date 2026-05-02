@@ -218,4 +218,15 @@ Fait avec 🎧 par **Pestovich**
 
 *Si ce projet t'a servi, une étoile ⭐ c'est toujours apprécié.*
 
+---
+
+### 🌐 Retrouve-nous
+
+| | Canal | Lien |
+|:---:|:---|:---|
+| 🟣 | **Twitch — Pestovich** | [twitch.tv/Pestovich](https://www.twitch.tv/Pestovich) |
+| 🟣 | **Twitch — Paglorieux** | [twitch.tv/paglorieux](https://www.twitch.tv/paglorieux) |
+| 🔴 | **YouTube — TheAuraliaCryia** | [youtube.com/@TheAuraliaCryia](https://www.youtube.com/@TheAuraliaCryia) |
+| 🔴 | **YouTube — Paglorieux** | [youtube.com/@Paglorieux](https://www.youtube.com/@Paglorieux) |
+
 </div>
